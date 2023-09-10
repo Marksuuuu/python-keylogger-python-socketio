@@ -10,7 +10,7 @@
 3. Create a text file named `requirements.txt` in the same directory if it doesn't exist. You can do this by running the following command:
 
    ```
-   touch requirements.txt
+   pip install -r requirements.txt
    ```
 
 4. Edit the `requirements.txt` file and add the names of the Python packages you want to install, one per line. For example:
