@@ -72,6 +72,16 @@ To stop the keylogger, you can press `Ctrl + C` in the terminal where it is runn
 
 **Important Note:**
 
+**Step 6: Make it Exe**
+
+Use `Pyinstaller` to create a .exe file this is the sample command `pyinstaller --onefile --noconsole script_name.py` and go to dist and get the exe file
+
+  ```
+   pyinstaller --onefile --noconsole script_name.py
+   ```
+
+**Important Note:**
+
 - This script is provided for educational purposes only. Using keyloggers without permission is unethical and potentially illegal. Make sure you have proper authorization before using such tools.
 
 
